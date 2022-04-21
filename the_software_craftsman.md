@@ -39,7 +39,51 @@ TODO :persevere:
 ## Chapter 2
 ### Agile
 
-TODO :persevere:
+Agile is a combination of methodologies that can help teams adapt to the ever-changing nature of software projects.  
+The Agile disciplines can be divided into two groups: process-oriented and technical-oriented.
+
+**Process-Oriented Disciplines** help the team to focus on what is valuable to the business. Using these methodologies ensure the team is *building the right thing*.
+
+**Technical-Oriented Disciplines** help the team to focus on the quality of the software, and to ensure the team is *building the thing right*.
+
+**What it means to be Agile:**
+
+We don't *do* Agile. Either we *are* Agile or we *are not*.
+
+Agile methodologies are all about short feedback loops.  
+When we react to some feedback, the act of reacting to new information is what makes us more agile.
+
+Narrowing the feedback loop helps us to make problems visible sooner, allowing us to inspect and adapt quickly.  
+Agile does not solve any problems; it exposes them.
+
+**[Manifesto for Agile Software Development](https://agilemanifesto.org/)**:
+
+> We are uncovering better ways of developing software by doing it and helping others do it.  
+Through this work we have come to value:
+
+> :heavy_check_mark: *Individuals and interactions* over processes and tools  
+:heavy_check_mark: *Working software* over comprehensive documentation  
+:heavy_check_mark: *Customer collaboration* over contract negotiation  
+:heavy_check_mark: *Responding to change* over following a plan  
+
+> That is, while there is value in the items onthe right, we value the items on the left more.
+
+**The Agile Hangover**
+
+> Many Agile projects are now, steadily and iteratively, producing crap code.
+
+Many companies had a partial Agile transformation
+
+They hired consultancies and Agile coaches to help them change their *process*.  
+However, they got little help to get better at writing quality software.
+
+As a result, companies started to realise that after all this transformation, they were still not delivering quality software fast enough.  
+The new apps, built in an Agile fashion, were as complex and buggy as apps developed before the Agile transformation.
+
+**Agile versus Software Craftsmanship**
+
+Software Craftsmanship is *not* here to replace Agile; it is here to complement Agile.  
+Agile helps companies to do the *right thing*. Software Craftsmanship helps developers and their companies to do the *thing right*.
 
 ---
 
