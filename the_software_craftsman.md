@@ -61,7 +61,7 @@ Agile does not solve any problems; it exposes them.
 > We are uncovering better ways of developing software by doing it and helping others do it.  
 Through this work we have come to value:
 
-> :heavy_check_mark: *Individuals and interactions* over processes and tools  
+:heavy_check_mark: *Individuals and interactions* over processes and tools  
 :heavy_check_mark: *Working software* over comprehensive documentation  
 :heavy_check_mark: *Customer collaboration* over contract negotiation  
 :heavy_check_mark: *Responding to change* over following a plan  
