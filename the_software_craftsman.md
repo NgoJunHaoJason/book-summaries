@@ -85,12 +85,16 @@ The new apps, built in an Agile fashion, were as complex and buggy as apps devel
 Software Craftsmanship is *not* here to replace Agile; it is here to complement Agile.  
 Agile helps companies to do the *right thing*. Software Craftsmanship helps developers and their companies to do the *thing right*.
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 3
 ### Software Craftsmanship
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -99,12 +103,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 5
 ### Heroes, Goodwill, and Professionalism
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -113,12 +121,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 7
 ### Technical Practices
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -127,12 +139,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 9
 ### Recruitment
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -141,12 +157,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 11
 ### Interview Anti-Patterns
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -155,12 +175,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 13
 ### Culture of Learning
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -169,12 +193,16 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Chapter 15
 ### Pragmatic Craftsmanship
 
 TODO :persevere:
+
+[back to contents](#contents)
 
 ---
 
@@ -183,9 +211,13 @@ TODO :persevere:
 
 TODO :persevere:
 
+[back to contents](#contents)
+
 ---
 
 ## Appendix
 ### Craftsmanship Myths and Further Explanations
 
 TODO :persevere:
+
+[back to contents](#contents)
