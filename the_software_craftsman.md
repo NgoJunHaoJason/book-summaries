@@ -162,7 +162,18 @@ However, there is a limit to the efforts we can make to help our clients. Knowin
 ## Chapter 4
 ### The Software Craftsmanship Attitude
 
-TODO :persevere:
+If we think that a piece of code we wrote some time in the past is still good enough today, it means we didn't learn anything since.
+
+**Who owns your career**
+
+We, as software professionals, own our career.  
+This means we should use our time and money to get better at what we do.
+
+Companies should still invest in their people. However, we should not see that as their obligation, but as a bonus / win-win situation.
+
+**Keeping ourselves up to date**
+
+TODO
 
 [back to contents](#contents)
 
