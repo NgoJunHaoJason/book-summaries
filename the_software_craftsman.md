@@ -171,7 +171,19 @@ Companies should still invest in their people. However, we should not see that a
 
 ### Keeping ourselves up to date
 
-TODO
+**Books**, be they physical or electronic, are essential.
+
+- TODO
+
+**Blogs** TODO
+
+**Technical websites** are also good for ourselves up to date with what's going on in the market.
+
+**Social media** can be a good tool for information gathering. There are people who contribute massively to move our profession - know who they are and follow them.
+
+### Practice
+
+How it is done
 
 [back to contents](#contents)
 
