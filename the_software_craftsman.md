@@ -33,7 +33,18 @@ Appendix: [Craftsmanship Myths and Further Explanations](#appendix-craftsmanship
 
 ## [Chapter 1] Software Development in the 21st Century
 
-TODO :persevere:
+We should choose our career path according to our passion, to what we love doing.
+
+### Seniority
+
+Seniority is transient and relative; there is no such thing as a senior or junior developer.
+
+### A new reality
+
+Good programming practices and techniques can be applied in many different environments and types of systems, but coding is just one of the things that modern developers do.  
+In this new reality, where the cost of bugs can bankrupt a company, companies are demanding software developers instead of cheap coders who do whatever they are told to do.
+
+[back to contents](#contents)
 
 ---
 
