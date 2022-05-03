@@ -313,10 +313,6 @@ Our careers will always be more important than any specific job or company. Purs
 
 If our job is aligned with our career aspirations, then pursuing a career inside the company is the right thing to do. However, if pursuing a career inside a company means we would deviate from our long-term career aspirations, we should probably find another job regardless of how well we are paid.
 
-The problem with many people who followed a career inside a tradiotional and large organisation is that their focus changed. Instead of becoming better professionals and on what is best for the company, they focused on getting their promotion or bonus.
-
-Their skills become obsolete and they become scared to lose their jobs. Unlike them, software craftsmen are never scared to lose their jobs.
-
 [back to contents](#contents)
 
 ---
