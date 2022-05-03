@@ -53,9 +53,9 @@ In this new reality, where the cost of bugs can bankrupt a company, companies ar
 Agile is a combination of methodologies that can help teams adapt to the ever-changing nature of software projects.  
 The Agile disciplines can be divided into two groups: process-oriented and technical-oriented.
 
-**Process-Oriented Disciplines** help the team to focus on what is valuable to the business. Using these methodologies ensure the team is *building the right thing*.
+**Process-Oriented Disciplines** help the team to focus on what is valuable to the business, to ensure the team is *building the right thing*.
 
-**Technical-Oriented Disciplines** help the team to focus on the quality of the software, and to ensure the team is *building the thing right*.
+**Technical-Oriented Disciplines** help the team to focus on the quality of the software, to ensure the team is *building the thing right*.
 
 ### What it means to be Agile
 
@@ -106,7 +106,7 @@ Software Craftsmanship is *not*:
 
 :x: Beautiful code  
 :x: Test-Driven Development  
-:x: Self-selected group of people  
+:x: A self-selected group of people  
 :x: Specific technologies or methodologies  
 :x: Certifications  
 :x: Religion  
