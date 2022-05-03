@@ -249,6 +249,31 @@ Enlightened managers understand and expect that certain things are not easy to d
 
 ## [Chapter 6] Working Software
 
+Some say that good and clean code is not enough to guarantee the success of a project; they are right since there are innumerable reasons for a software project to fail.
+
+However, working software is not enough as well.
+
+### Looking after our garden
+
+Like a garden, if we neglect our code base even for a short period of time, it will require much more effort to make it look good again.
+
+Bad design choices, lack of tests, and poor use of language and tools will make the code rot faster, to the point it is painful and costly to maintain it.
+
+### Hostage of your own software
+
+When the code base gets into the situation where additional features take too long to be implemented and developers are scared to touch the existing code, action must be taken immediately.  
+This is a very dangerous situation to be in because business progress is being impeded by software instead of being helped by it.
+
+It is *totally* unacceptable to have bad quality code affecting business decisions.
+
+The biggest problem here is that bad code is invisible to everyone besides the developers; others only realise that something is wrong when it is too late. That means it is the developers' responsibility to look after the quality of the code.
+
+Sometimes, developers expose the problem to their managers, but the request to have some time to refactor the code is often ignored for various reasons.
+
+Note that when developers get to a point where they need to ask for some formal time to do refactoring, it means that they neglected the code at some point in the past.
+
+### The wrong notion of time
+
 TODO :persevere:
 
 [back to contents](#contents)
@@ -281,7 +306,8 @@ When we are not sure where we want to go with our careers, we can create opportu
 
 ### Job as investment
 
-Software craftsmen treat every single job as an investment, a step towards a bigger goal.  
+Software craftsmen treat every single job as an investment, a step towards a bigger goal.
+
 We invest our knowledge, passion, time, dedication and professional attitude in our job. Therefore, like any other types of investment, we need to be clear about what we expect as a return, and measure it regularly throughout the length of that investment.
 
 Knowledge is the most common return on investment expected from a job.
