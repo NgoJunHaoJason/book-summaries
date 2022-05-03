@@ -184,9 +184,9 @@ Companies should still invest in their people. However, we should not see that a
 
 **Books**, be they physical or electronic, are essential.
 
-- TODO
+- TODO :persevere:
 
-**Blogs** TODO
+**Blogs** TODO :persevere:
 
 **Technical websites** are also good for ourselves up to date with what's going on in the market.
 
@@ -196,13 +196,52 @@ Companies should still invest in their people. However, we should not see that a
 
 How it is done
 
+TODO :persevere:
+
 [back to contents](#contents)
 
 ---
 
 ## [Chapter 5] Heroes, Goodwill, and Professionalism
 
-TODO :persevere:
+Very often, we have to deal with very hard deadlines.  
+The best way to deal with them is to analyze everything that needs to be done and raise all possible risks we see and concerns we have.  
+Most importantly, we need to to state how much we could confidently deliver (i.e. tested and tried in a production-like environment) by the expected date.
+
+When developers say they cannot confidently deliver all features by an imposed deadline, they usually succumb to their manager's pressure by saying "We will try our best".
+
+Saying "try" results in two things:
+
+1. the manager understand that the developers are going to deliver it
+2. the developers are implying that they normally do not try their best, which is unprofessional
+
+We usually do not like to say no. However, saying yes (or "will try") to avoid disappointment is just lying.  
+Although doing so looks positive, it is also very selfish. When we say yes, people will take that into account and make plans base on it.
+
+Not being honest and transparent may cause huge damage to the company. Professionalism means being honest with ourselves, our teammates, our managers and our customers.
+
+If we feel that our managers are not being transparent with their boss, we should do the right thing, which includes escalating the issue if need be.  
+As long as we do it in an honest and transparent way, there is a big chance no one will get hurt, and the team and company will win.
+
+### Providing options
+
+Always saying no is also not a professional attitude. Ideally, every no should be followed by a list of alternatives.
+
+Saying no without providing options does not help much because the person receiving our answer will not be able to do much with it.  
+Before saying no, we need to analyze the problem and provide options, or at least brainstorm ideas; an incomplete idea can help people find a different alternative.
+
+Sometimes, there are problems that we simply do not know how to solve. When this is the case, we should say it as honestly and as quickly as possible.  
+We should also demonstrate we are willing to investigate the problem and give our best shot at solving it, making it clear we are *not* making any promises besides sharing what we learn.  
+Providing updates of our progress as often as we can allows the team to make use of each piece of new information, by contributing other ideas or offering help in areas where they have a better understanding.  
+This behavior will make the team trust us when we say we know something. Being honest, no matter how bad the situation, is a sign of professionalism.
+
+### Enlightened managers
+
+Good managers understand they are part of the team and need to work with the developers toward the common goal.
+
+Managers should appreciate when we say we cannot deliver certain features. Raising red flags as early as possible, indicating something is wrong, allows the team and all people involved to be pragmatic and come up with alternative solutions.
+
+Enlightened managers understand and expect that certain things are not easy to do or may take a long time to be done. They appreciate when they are challenged and different options are suggested. This attitude shows that everyone is working as a team towards a common goal.
 
 [back to contents](#contents)
 
@@ -231,7 +270,7 @@ Our career is a long and hard road to mastery that we must be willing to walk.
 
 ### Focus and Determination
 
-Defining the direction we want to go in our careers is important.   It is a long-terms goal and many things can change. We have to keep evaluating the sub-goals and adapt when necessary.
+Defining the direction we want to go in our careers is important.   It is a long-term goal and many things can change. We have to keep evaluating the sub-goals and adapt when necessary.
 
 When we are not sure where we want to go with our careers, we can create opportunities for ourselves. Some examples (non-exhaustive) include:
 
