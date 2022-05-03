@@ -226,7 +226,57 @@ TODO :persevere:
 
 ## [Chapter 8] The Long Road
 
-TODO :persevere:
+Everyone wants to be good at something. The motivations may vary but one thing is true for all of us: mastering something gives us pleasure.  
+Our career is a long and hard road to mastery that we must be willing to walk.
+
+### Focus and Determination
+
+Defining the direction we want to go in our careers is important.   It is a long-terms goal and many things can change. We have to keep evaluating the sub-goals and adapt when necessary.
+
+When we are not sure where we want to go with our careers, we can create opportunities for ourselves. Some examples (non-exhaustive) include:
+
+1. Expanding our technical knowledge, like learning a new language
+2. Attending technical community events
+3. Networking with other people
+4. Blogging about the things we are learning and doing
+
+### Job as investment
+
+Software craftsmen treat every single job as an investment, a step towards a bigger goal.  
+We invest our knowledge, passion, time, dedication and professional attitude in our job. Therefore, like any other types of investment, we need to be clear about what we expect as a return, and measure it regularly throughout the length of that investment.
+
+Knowledge is the most common return on investment expected from a job.
+
+Our personal lives also play an important role in our career decisions. Sometimes we just need more money, and that is okay. Sometimes we want more stability, security and work-life balance for our family.
+
+When it comes to our career, there is no right or wrong. However, we should keep in mind that knowledge is forever; money, stability and security are not.  
+If our job is terminated, knowledge and experience are the only things we can take with us. Being a software craftsman, and hence getting the knowledge and experience, makes finding jobs a lot easier.
+
+> Note: Expecting a return on investment from jobs should not be confused with the selfish and unprofessional attitude of "CV building", where developers choose technologies and methodologies to improve their CVs instead of what is best fit for a purpose.
+
+### Autonomy, Mastery and Purpose
+
+Assuming money is off the table, knowledge workers are motivated by three things:
+
+**Autonomy** - It is when we are in control of what we do, how we do it and when we do it; which should always be the case in a true Agile context
+
+**Mastery** - It is when we are constantly learning and evolving
+
+**Purpose** - It is when we feel our job is important and we are contributing to make things better, instead of just doing what we are told without understanding why
+
+The assumption of money being *off* the table is very important - when our basic needs are not satisied, it is very difficult to focus and do our job well.
+
+Software craftsmen always choose jobs where they have autonomy, mastery and purpose, instead of choosing jobs just for the money.
+
+### Career inside companies
+
+Our careers will always be more important than any specific job or company. Pursuing a career inside a company is not the same thing as pursuing our own career.
+
+If our job is aligned with our career aspirations, then pursuing a career inside the company is the right thing to do. However, if pursuing a career inside a company means we would deviate from our long-term career aspirations, we should probably find another job regardless of how well we are paid.
+
+The problem with many people who followed a career inside a tradiotional and large organisation is that their focus changed. Instead of becoming better professionals and on what is best for the company, they focused on getting their promotion or bonus.
+
+Their skills become obsolete and they become scared to lose their jobs. Unlike them, software craftsmen are never scared to lose their jobs.
 
 [back to contents](#contents)
 
