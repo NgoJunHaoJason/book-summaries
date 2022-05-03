@@ -42,7 +42,7 @@ Seniority is transient and relative; there is no such thing as a senior or junio
 ### A new reality
 
 Good programming practices and techniques can be applied in many different environments and types of systems, but coding is just one of the things that modern developers do.  
-In this new reality, where the cost of bugs can bankrupt a company, companies are demanding software developers instead of cheap coders who do whatever they are told to do.
+In this new reality, where the cost of bugs can bankrupt a company, companies are demanding professional software developers instead of cheap coders who do whatever they are told to do.
 
 [back to contents](#contents)
 
