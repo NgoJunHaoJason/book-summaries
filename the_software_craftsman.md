@@ -274,7 +274,11 @@ Note that when developers get to a point where they need to ask for some formal 
 
 ### The wrong notion of time
 
-TODO :persevere:
+Adding items to a technical debt backlog is a way developers use to justify the bad code they have written without feeling guilty about it.
+
+Developers may have saved some time for themselves by cutting corners, but it would result in time wasted for quality assurance engineers as well as other developers.
+
+TODO? :thinking:
 
 [back to contents](#contents)
 
