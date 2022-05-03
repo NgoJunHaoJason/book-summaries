@@ -184,9 +184,12 @@ Companies should still invest in their people. However, we should not see that a
 
 **Books**, be they physical or electronic, are essential.
 
-- TODO :persevere:
+- *Technology-specific books* are valuable but they expire. They are essential for the immediate need, when we need to learn a new technology. (Example: books on JavaScript)
+- *Conceptual books* give us the foundation to advance in our career. Learning new concepts, paradigms and practices is far harder than learning a specific technology, and it may take years for us to be comfortable with them. (Example: books on functional programming)
+- *Behavioural books* make us more efficient when working in teams, and be better professionals in general. (Example: books on Agile methodologies)
+- *Revolutionary books* (a.k.a. classics) change the way we work or even our personal values. They define the direction of our industry. It may take many years to master the content of these books. (Example: The Mythical Man-Month)
 
-**Blogs** TODO :persevere:
+**Blogs** are a great way to keep ourselves up to date.
 
 **Technical websites** are also good for ourselves up to date with what's going on in the market.
 
@@ -194,9 +197,35 @@ Companies should still invest in their people. However, we should not see that a
 
 ### Practice
 
-How it is done
+How it is done is as important as getting it done.
 
-TODO :persevere:
+If we want to be good at writing quality code, we need to practice writing quality code. When practicing, the focus should be on the techniques we are using and not in solving the problem.
+
+We should not worry if we take a long time. As long as we tried our best, we should feel great.
+
+**Katas** are simple coding exercises, and are a perfect way to try new techniques and approaches.
+
+**Pet projects** are real projects but without pressure. They are helpful for us to experience several aspects of a real project while having fun.
+
+Contributing to **open source** projects is also a great way to practice, and to see great developers in action.
+
+**Pair programming** is more a social activity than a technical practice, and it helps bring developers together. If we keep our minds open while pairing, we can learn new things.
+
+### Socialise
+
+Finding other developers whome we can bounce ideas off of, pair-program with, and network is essential for a successful career. A great way to do that is to join the local technical community.
+
+### Deliberate discovery
+
+We should always try to create opportunities where we can learn something we do not know.
+
+### Work-Life Balance
+
+Quite often, lack of time is used as an excuse for our own laziness. Do pastimes in moderation instead of spending all free time on them.
+
+One way to help us keep our focus, to use our time wisely, is to use the Pomodoro technique.
+
+Keeping our professional life healthy is essential for a healthy family life. If we are constantly worried about our pay or being made redundant, we may damage our personal lives.
 
 [back to contents](#contents)
 
