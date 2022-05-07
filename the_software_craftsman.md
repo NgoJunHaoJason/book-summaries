@@ -315,6 +315,79 @@ TODO? :thinking:
 
 ## [Chapter 7] Technical Practices
 
+There is a real business value to using certain technical practices.
+
+### The right thing vs the thing right
+
+With a few exceptions, Aigle methodologies are better than waterfall and other heavyweight methodologies.  
+They provide a short feedback loop, which helps ensure we are building the right thing.  
+However, we cannot measure the quality of our applications through Agile practices. 
+
+Software Craftsmanship complements Agile by focusing on technical practices and providing a short feedback loop on the *quality* of our code.  
+Technical practices help ensure we are building the thing right.
+
+### Practices and values
+
+Extreme Programming (XP) practices provide us with many ways to shorten the feedback loop regarding software quality.  
+However, practices do not magically work just because they are adopted.
+
+Practices are what we consistently do on a daily basis: we either do TDD or not; we either have continuous integration or not.  
+Practices must be backed by values, which are shared by all members of the team, to be efficient. An example of a value is wanting to be better.
+
+Values are things are live by; they are recognised based on our actions, not what we say.  
+Practices are the validation of our values.
+
+When trying to convince managers or team members to adopt certain practices, focusing on the practices themselves would not work.  
+Instead, discuss the benefit (business value) they bring and how they compare to the team's current practices.
+
+### Automated Testing
+
+Automated testing shortens the feedback loop on the correctness of our code from weeks to minutes, enabling us to correct any mistakes almost immediately.
+
+It gives us the confidence to deploy our application into production minutes after the last change was made.
+
+This confidence - that adding new features speedily do not break the system - is the business value automated testing provides.
+
+### Test First
+
+Writing tests first helps us to just write enough code to satisfy the requirements, keeping the code simple.  
+It reduces complexity and overengineering, and that is the value it brings to the business.
+
+### Test-Driven Development (TDD)
+
+TDD is an evolution of test first.
+
+Although TDD has "test" in its name, TDD is actually a design practice. When test-driving our code, it becomes difficult to write complex code.
+
+Firstly, writing just enough code to satisfy the requirements / tests would discourage overengineering.
+
+Secondly, complexity in our code is highlighted by the complexity in maintaining and writing new tests.
+
+Using TDD provides a far shorter and objective feedback loop on the design of our code as compared to design reviews, and that is value to the business.
+
+### Continuous Integrations
+
+TODO :persevere:
+
+### Pair Programming
+
+Code review is commonly used to guarantee code quality, and to spread knowledge of the system and good coding skills to the team.  The problem is that this feedback loop depends on the frequency of code reviews.
+
+Pair programming avoids this problem by giving immediate feedback on the quality of the code written. The other developer can immediately point out when a name is unclear or a function is too big.
+
+Rotating pairs frequently can improve the collective understanding of the entire system and level up developers' skills. It also helps developers define and maintain coding standards.
+
+### Refactoring
+
+TODO :persevere:
+
+### Accountability
+
+We should all be accountable for our own decisions - not only for the decision of adopting certain practices, but also for the decision of *not* adopting them.  
+This applies not just to developers, but to managers as well. We should record these decisions and escalte the issue if necessary.
+
+### Pragmatism
+
 TODO :persevere:
 
 [back to contents](#contents)
