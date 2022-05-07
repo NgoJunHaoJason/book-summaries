@@ -319,7 +319,7 @@ There is a real business value to using certain technical practices.
 
 ### The right thing vs the thing right
 
-With a few exceptions, Aigle methodologies are better than waterfall and other heavyweight methodologies.  
+With a few exceptions, Agile methodologies are better than waterfall and other heavyweight methodologies.  
 They provide a short feedback loop, which helps ensure we are building the right thing.  
 However, we cannot measure the quality of our applications through Agile practices. 
 
@@ -338,7 +338,7 @@ Values are things are live by; they are recognised based on our actions, not wha
 Practices are the validation of our values.
 
 When trying to convince managers or team members to adopt certain practices, focusing on the practices themselves would not work.  
-Instead, discuss the benefit (business value) they bring and how they compare to the team's current practices.
+Instead, discuss the benefits they bring and how they compare to the team's current practices.
 
 ### Automated Testing
 
@@ -350,8 +350,7 @@ This confidence - that adding new features speedily do not break the system - is
 
 ### Test First
 
-Writing tests first helps us to just write enough code to satisfy the requirements, keeping the code simple.  
-It reduces complexity and overengineering, and that is the value it brings to the business.
+Writing tests first helps us to just write enough code to satisfy the requirements, keeping the code simple; it reduces complexity and overengineering
 
 ### Test-Driven Development (TDD)
 
@@ -363,11 +362,13 @@ Firstly, writing just enough code to satisfy the requirements / tests would disc
 
 Secondly, complexity in our code is highlighted by the complexity in maintaining and writing new tests.
 
-Using TDD provides a far shorter and objective feedback loop on the design of our code as compared to design reviews, and that is value to the business.
+Using TDD provides a far shorter and objective feedback loop on the design of our code as compared to design reviews.
 
 ### Continuous Integrations
 
-TODO :persevere:
+In a large project, we can have multiple teams spread across different locations and time zones making changes to the same code base.
+
+Continuous integration, combined with automated tests, helps ensure that the application does not break after someone introduce a change.
 
 ### Pair Programming
 
@@ -379,7 +380,9 @@ Rotating pairs frequently can improve the collective understanding of the entire
 
 ### Refactoring
 
-TODO :persevere:
+Messy code makes developers go slowly, which causes the business to slow down. Constantly refactoring our code mitigates the risk of it becoming messy.
+
+Refactoring without pragmatism can be a dangerous practice. We should focus on refactoring code we need to change or understand.
 
 ### Accountability
 
@@ -388,7 +391,11 @@ This applies not just to developers, but to managers as well. We should record t
 
 ### Pragmatism
 
-TODO :persevere:
+Technologies, methodologies and practices are constantly emerging and evolving; there is always a better way of doing things.
+
+As software craftsmen, we should be pragmatic by choosing the best technologies, methodologies and practices for the job.
+
+If certain practices are not giving us value anymore, we should stop using them. If we find a practice that is better than what we do today, we should adopt this better practice.
 
 [back to contents](#contents)
 
