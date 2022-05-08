@@ -150,7 +150,7 @@ This applies to our work environment. We want to work with people who can make u
 
 **Not only customer collaboration, but also productive partnerships**
 
-We do not believe in the employer/employee type of relationship. We believe in a partnership, in which the company is the customer and the software developer is the one providing a service.
+We don't believe in the employer/employee type of relationship. We believe in a partnership, in which the company is the customer and the software developer is the one providing a service.
 
 Although extremely important, writing code is just one of the things we need to do to help the project succeed. Other things include: 
 
@@ -221,7 +221,7 @@ Finding other developers whome we can bounce ideas off of, pair-program with, an
 
 ### Deliberate discovery
 
-We should always try to create opportunities where we can learn something we do not know.
+We should always try to create opportunities where we can learn something we don't know.
 
 ### Work-Life Balance
 
@@ -246,9 +246,9 @@ When developers say they cannot confidently deliver all features by an imposed d
 Saying "try" results in two things:
 
 1. the manager understand that the developers are going to deliver it
-2. the developers are implying that they normally do not try their best, which is unprofessional
+2. the developers are implying that they normally don't try their best, which is unprofessional
 
-We usually do not like to say no. However, saying yes (or "will try") to avoid disappointment is just lying. Although doing so looks positive, it is also very selfish. When we say yes, people will take that into account and make plans base on it.
+We usually don't like to say no. However, saying yes (or "will try") to avoid disappointment is just lying. Although doing so looks positive, it is also very selfish. When we say yes, people will take that into account and make plans base on it.
 
 Not being honest and transparent may cause huge damage to the company. Professionalism means being honest with ourselves, our teammates, our managers and our customers.
 
@@ -261,7 +261,7 @@ Always saying no is also not a professional attitude. Ideally, every no should b
 Saying no without providing options does not help much because the person receiving our answer will not be able to do much with it.  
 Before saying no, we need to analyze the problem and provide options, or at least brainstorm ideas; an incomplete idea can help people find a different alternative.
 
-Sometimes, there are problems that we simply do not know how to solve. When this is the case, we should say it as honestly and as quickly as possible.
+Sometimes, there are problems that we simply don't know how to solve. When this is the case, we should say it as honestly and as quickly as possible.
 
 We should also demonstrate we are willing to investigate the problem and give our best shot at solving it, making it clear we are *not* making any promises besides sharing what we learn.
 
@@ -334,7 +334,7 @@ Technical practices help ensure we are building the thing right.
 
 ### Practices and values
 
-Extreme Programming (XP) practices provide us with many ways to shorten the feedback loop regarding software quality. However, practices do not magically work just because they are adopted.
+Extreme Programming (XP) practices provide us with many ways to shorten the feedback loop regarding software quality. However, practices don't magically work just because they are adopted.
 
 Practices are what we consistently do on a daily basis: we either do TDD or not; we either have continuous integration or not.  
 Practices must be backed by values, which are shared by all members of the team, to be efficient. An example of a value is wanting to be better.
@@ -350,7 +350,7 @@ Automated testing shortens the feedback loop on the correctness of our code from
 
 It gives us the confidence to deploy our application into production minutes after the last change was made.
 
-This confidence - that adding new features speedily do not break the system - is the business value automated testing provides.
+This confidence - that adding new features speedily don't break the system - is the business value automated testing provides.
 
 ### Test First
 
@@ -523,14 +523,14 @@ Having 9-to-5 developers instead of passionate developers in a company would end
 
 ### Constrained by lack of motivation
 
-Every company has problem. However, a lot of employees do not do anything to improve things. The most common reasons include:
+Every company has problem. However, a lot of employees don't do anything to improve things. The most common reasons include:
 
-1. they do not feel empowered to do it
-2. they do not want to be the ones pushing it
+1. they don't feel empowered to do it
+2. they don't want to be the ones pushing it
 3. they find it to be too much hassle
-4. they do not believe that things can be changed
+4. they don't believe that things can be changed
 5. No one agrees on what the better thing is
-6. They do not care; it is *just* a job to them
+6. They don't care; it is *just* a job to them
 
 ### Injecting passion
 
