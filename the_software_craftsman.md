@@ -480,7 +480,27 @@ TODO :persevere:
 
 ## [Chapter 11] Interview Anti-Patterns
 
-TODO :persevere:
+In order to attract software craftsmen, it is important to know what to avoid when conducting interviews.
+
+### Don't be a smart-ass interviewer
+
+**Don't try to make the candidate look like a fool** - Simply put, don't be an ass. Nobody would want to work with you.
+
+### Don't ask questions that are irrelevant to the job
+
+**Don't use brainteasers** - The ability to answer them has nothing to do with writing well-crafted code, being a team player, or having a professional attitude.
+
+**Don't ask questions to which you don't know the answer** - If you are unsure about the questions and respective answers, they are probably not important to the job.
+
+**Don't use algorithms** - If the main problems we have in our system are not about algorithms, we should not use them in our coding interviews. (If our application is all about algorithms, then we should definitely test for that.)
+
+### Don't conduct interviews in an environment dissimilar to the job
+
+**Don't block the internet** - Being able to research solutions and better ways to solve problems is an essential skill for any software developer.
+
+**Don't code on a piece of paper** - It does not reflect the reality the candidate will face if they get the job.
+
+**Don't conduct phone interviews** - Phone interviews tend to be quite dry, with a series of questions and answers, without much time for a proper conversation.
 
 [back to contents](#contents)
 
