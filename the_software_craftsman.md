@@ -33,7 +33,7 @@ Appendix: [Craftsmanship Myths and Further Explanations](#appendix-craftsmanship
 
 ## [Chapter 1] Software Development in the 21st Century
 
-We should choose our career path according to our passion, to what we love doing.
+We should choose our career path according to our passion.
 
 ### Seniority
 
@@ -41,7 +41,8 @@ Seniority is transient and relative; there is no such thing as a senior or junio
 
 ### A new reality
 
-Good programming practices and techniques can be applied in many different environments and types of systems, but coding is just one of the things that modern developers do.  
+Good programming practices and techniques can be applied in many different environments and types of systems, but coding is just one of the things that modern developers do.
+
 In this new reality, where the cost of bugs can bankrupt a company, companies are demanding professional software developers instead of cheap coders who do whatever they are told to do.
 
 [back to contents](#contents)
@@ -50,8 +51,7 @@ In this new reality, where the cost of bugs can bankrupt a company, companies ar
 
 ## [Chapter 2] Agile
 
-Agile is a combination of methodologies that can help teams adapt to the ever-changing nature of software projects.  
-The Agile disciplines can be divided into two groups: process-oriented and technical-oriented.
+Agile is a combination of methodologies that can help teams adapt to the ever-changing nature of software projects. The Agile disciplines can be divided into two groups: process-oriented and technical-oriented.
 
 **Process-Oriented Disciplines** help the team to focus on what is valuable to the business, to ensure the team is *building the right thing*.
 
@@ -61,11 +61,9 @@ The Agile disciplines can be divided into two groups: process-oriented and techn
 
 We don't *do* Agile. Either we *are* Agile or we *are not*.
 
-Agile methodologies are all about short feedback loops.  
-When we react to some feedback, the act of reacting to new information is what makes us more agile.
+Agile methodologies are all about short feedback loops. When we react to some feedback, the act of reacting to new information is what makes us more agile.
 
-Narrowing the feedback loop helps us to make problems visible sooner, allowing us to inspect and adapt quickly.  
-Agile does not solve any problems; it exposes them.
+Narrowing the feedback loop helps us to make problems visible sooner, allowing us to inspect and adapt quickly. Agile does not solve any problems; it exposes them.
 
 ### [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
@@ -85,15 +83,16 @@ Through this work we have come to value:
 
 Many companies had a partial Agile transformation
 
-They hired consultancies and Agile coaches to help them change their *process*.  
-However, they got little help to get better at writing quality software.
+They hired consultancies and Agile coaches to help them change their *process*. However, they got little help to get better at writing quality software.
 
-As a result, companies started to realise that after all this transformation, they were still not delivering quality software fast enough.  
+As a result, companies started to realise that after all this transformation, they were still not delivering quality software fast enough.
+
 The new apps, built in an Agile fashion, were as complex and buggy as apps developed before the Agile transformation.
 
 ### Agile versus Software Craftsmanship
 
-Software Craftsmanship is *not* here to replace Agile; it is here to complement Agile.  
+Software Craftsmanship is *not* here to replace Agile; it is here to complement Agile.
+
 Agile helps companies to do the *right thing*. Software Craftsmanship helps developers and their companies to do the *thing right*.
 
 [back to contents](#contents)
@@ -175,8 +174,7 @@ If we think that a piece of code we wrote some time in the past is still good en
 
 ### Who owns your career
 
-We, as software professionals, own our career.  
-This means we should use our time and money to get better at what we do.
+We, as software professionals, own our career. This means we should use our time and money to get better at what we do.
 
 Companies should still invest in their people. However, we should not see that as their obligation, but as a bonus / win-win situation.
 
@@ -233,8 +231,8 @@ Keeping our professional life healthy is essential for a healthy family life. If
 
 ## [Chapter 5] Heroes, Goodwill, and Professionalism
 
-Very often, we have to deal with very hard deadlines.  
-The best way to deal with them is to analyze everything that needs to be done and raise all possible risks we see and concerns we have.  
+Very often, we have to deal with very hard deadlines. The best way to deal with them is to analyze everything that needs to be done and raise all possible risks we see and concerns we have.
+
 Most importantly, we need to to state how much we could confidently deliver (i.e. tested and tried in a production-like environment) by the expected date.
 
 When developers say they cannot confidently deliver all features by an imposed deadline, they usually succumb to their manager's pressure by saying "We will try our best".
@@ -244,13 +242,11 @@ Saying "try" results in two things:
 1. the manager understand that the developers are going to deliver it
 2. the developers are implying that they normally do not try their best, which is unprofessional
 
-We usually do not like to say no. However, saying yes (or "will try") to avoid disappointment is just lying.  
-Although doing so looks positive, it is also very selfish. When we say yes, people will take that into account and make plans base on it.
+We usually do not like to say no. However, saying yes (or "will try") to avoid disappointment is just lying. Although doing so looks positive, it is also very selfish. When we say yes, people will take that into account and make plans base on it.
 
 Not being honest and transparent may cause huge damage to the company. Professionalism means being honest with ourselves, our teammates, our managers and our customers.
 
-If we feel that our managers are not being transparent with their boss, we should do the right thing, which includes escalating the issue if need be.  
-As long as we do it in an honest and transparent way, there is a big chance no one will get hurt, and the team and company will win.
+If we feel that our managers are not being transparent with their boss, we should do the right thing, which includes escalating the issue if need be. As long as we do it in an honest and transparent way, there is a big chance no one will get hurt, and the team and company will win.
 
 ### Providing options
 
@@ -259,9 +255,12 @@ Always saying no is also not a professional attitude. Ideally, every no should b
 Saying no without providing options does not help much because the person receiving our answer will not be able to do much with it.  
 Before saying no, we need to analyze the problem and provide options, or at least brainstorm ideas; an incomplete idea can help people find a different alternative.
 
-Sometimes, there are problems that we simply do not know how to solve. When this is the case, we should say it as honestly and as quickly as possible.  
-We should also demonstrate we are willing to investigate the problem and give our best shot at solving it, making it clear we are *not* making any promises besides sharing what we learn.  
-Providing updates of our progress as often as we can allows the team to make use of each piece of new information, by contributing other ideas or offering help in areas where they have a better understanding.  
+Sometimes, there are problems that we simply do not know how to solve. When this is the case, we should say it as honestly and as quickly as possible.
+
+We should also demonstrate we are willing to investigate the problem and give our best shot at solving it, making it clear we are *not* making any promises besides sharing what we learn.
+
+Providing updates of our progress as often as we can allows the team to make use of each piece of new information, by contributing other ideas or offering help in areas where they have a better understanding.
+
 This behavior will make the team trust us when we say we know something. Being honest, no matter how bad the situation, is a sign of professionalism.
 
 ### Enlightened managers
@@ -319,23 +318,22 @@ There is a real business value to using certain technical practices.
 
 ### The right thing vs the thing right
 
-With a few exceptions, Agile methodologies are better than waterfall and other heavyweight methodologies.  
-They provide a short feedback loop, which helps ensure we are building the right thing.  
+With a few exceptions, Agile methodologies are better than waterfall and other heavyweight methodologies. They provide a short feedback loop, which helps ensure we are building the right thing.
+
 However, we cannot measure the quality of our applications through Agile practices. 
 
-Software Craftsmanship complements Agile by focusing on technical practices and providing a short feedback loop on the *quality* of our code.  
+Software Craftsmanship complements Agile by focusing on technical practices and providing a short feedback loop on the *quality* of our code.
+
 Technical practices help ensure we are building the thing right.
 
 ### Practices and values
 
-Extreme Programming (XP) practices provide us with many ways to shorten the feedback loop regarding software quality.  
-However, practices do not magically work just because they are adopted.
+Extreme Programming (XP) practices provide us with many ways to shorten the feedback loop regarding software quality. However, practices do not magically work just because they are adopted.
 
 Practices are what we consistently do on a daily basis: we either do TDD or not; we either have continuous integration or not.  
 Practices must be backed by values, which are shared by all members of the team, to be efficient. An example of a value is wanting to be better.
 
-Values are things are live by; they are recognised based on our actions, not what we say.  
-Practices are the validation of our values.
+Values are things are live by; they are recognised based on our actions, not what we say. Practices are the validation of our values.
 
 When trying to convince managers or team members to adopt certain practices, focusing on the practices themselves would not work.  
 Instead, discuss the benefits they bring and how they compare to the team's current practices.
@@ -386,7 +384,8 @@ Refactoring without pragmatism can be a dangerous practice. We should focus on r
 
 ### Accountability
 
-We should all be accountable for our own decisions - not only for the decision of adopting certain practices, but also for the decision of *not* adopting them.  
+We should all be accountable for our own decisions - not only for the decision of adopting certain practices, but also for the decision of *not* adopting them.
+
 This applies not just to developers, but to managers as well. We should record these decisions and escalte the issue if necessary.
 
 ### Pragmatism
@@ -403,7 +402,8 @@ If certain practices are not giving us value anymore, we should stop using them.
 
 ## [Chapter 8] The Long Road
 
-Everyone wants to be good at something. The motivations may vary but one thing is true for all of us: mastering something gives us pleasure.  
+Everyone wants to be good at something. The motivations may vary but one thing is true for all of us: mastering something gives us pleasure.
+
 Our career is a long and hard road to mastery that we must be willing to walk.
 
 ### Focus and Determination
@@ -442,7 +442,7 @@ Assuming money is off the table, knowledge workers are motivated by three things
 
 **Purpose** - It is when we feel our job is important and we are contributing to make things better, instead of just doing what we are told without understanding why
 
-The assumption of money being *off* the table is very important - when our basic needs are not satisied, it is very difficult to focus and do our job well.
+The assumption of money being *off* the table is very important - when our basic needs are not satisfied, it is very difficult to focus and do our job well.
 
 Software craftsmen always choose jobs where they have autonomy, mastery and purpose, instead of choosing jobs just for the money.
 
