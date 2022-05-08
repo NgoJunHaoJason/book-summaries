@@ -566,7 +566,57 @@ There is nothing more annoying for a developer than having a manager dictating w
 
 ## [Chapter 13] Culture of Learning
 
+No change can be made effectively if the people involved are not motivated or don't really care about their jobs.
+
+### Wrong motivation
+
+We will never change an organisation by forcing people to adopt a new process or different practices.
+
+Instead, we should create a culture of learning, where people can find their own motivation to make things better.
+
+### Creating a culture of learning
+
 TODO :persevere:
+
+**Start a book club** - TODO :persevere:
+
+**Have a tech lunch** - TODO :persevere:
+
+**Have group discussions** - TODO :persevere:
+
+**Switch projects for an iteration** - TODO :persevere:
+
+**Switch projects for a few hours** - TODO :persevere:
+
+**Conduct group code reviews** - TODO :persevere:
+
+**Have hands-on coding sessions** - TODO :persevere:
+
+**Start internal communities of practice** - TODO :persevere:
+
+**Encourage pet-project time** - TODO :persevere:
+
+**Engage with external technical communities** - TODO :persevere:
+
+### What if others don't want to join in?
+
+TODO :persevere:
+
+**Be an example** - TODO :persevere:
+
+**Focus on thos who care** - TODO :persevere:
+
+**Don't force** - TODO :persevere:
+
+**Don't try to change everyone** - TODO :persevere:
+
+**Avoid concensus delays** - TODO :persevere:
+
+**Don't ask for authorisation** - TODO :persevere:
+
+**Don't complicate** - TODO :persevere:
+
+**Establish a rhythm** - TODO :persevere:
 
 [back to contents](#contents)
 
