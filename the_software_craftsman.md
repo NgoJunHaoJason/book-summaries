@@ -152,7 +152,13 @@ This applies to our work environment. We want to work with people who can make u
 
 We do not believe in the employer/employee type of relationship. We believe in a partnership, in which the company is the customer and the software developer is the one providing a service.
 
-Although extremely important, writing code is just one of the things we need to do to help the project succeed. Other things (non-exhaustive) include: improving processes, removing unnecessary bureaucracy, understanding business domain, questioning requirements in relation to the value they provide, and working on other non-coding tasks.
+Although extremely important, writing code is just one of the things we need to do to help the project succeed. Other things include: 
+
+- improving processes
+- removing unnecessary bureaucracy
+- understanding business domain
+- questioning requirements in relation to the value they provide
+- working on other non-coding tasks.
 
 The core business of many of our clients is not building software, so it is our obligation to help them run a software project in the best way possible.
 
@@ -410,7 +416,7 @@ Our career is a long and hard road to mastery that we must be willing to walk.
 
 Defining the direction we want to go in our careers is important.   It is a long-term goal and many things can change. We have to keep evaluating the sub-goals and adapt when necessary.
 
-When we are not sure where we want to go with our careers, we can create opportunities for ourselves. Some examples (non-exhaustive) include:
+When we are not sure where we want to go with our careers, we can create opportunities for ourselves. Some example include:
 
 1. Expanding our technical knowledge, like learning a new language
 2. Attending technical community events
@@ -482,7 +488,57 @@ TODO :persevere:
 
 ## [Chapter 12] The Cost of Low Morale
 
-TODO :persevere:
+Low morale can be one of the main reasons for a software project to fail, or even bring the whole company to a halt.
+
+From this chapter onwards, it is assumed that your team's process is based on a combination of Agile processes and disciplines.
+
+This includes:
+- working in a cross-functional team
+- having daily stand-ups
+- working in short iterations (sprints)
+- being empowered to estimate the work
+- being able to decide what to work on according to priorities
+- having a unified backlog prioritised by the product owner
+- letting developers be responsible for testing the application
+
+### The Agile hangover: low morale
+
+After a few years Agile transformation, many companies realised their software delivery capability is still very poor.
+
+A common problem found in all these companies is low morale. People complaint about the people they work with and how uninspiring their jobs are. They felt they were not being treated as skilled professionals - who could contribute not only code, but also ideas to make the company better.
+
+Adopting Agile should have been able to easily provide knowledge workers what they need the most to enjoy their jobs: autonomy, mastery and purpose.
+
+The issue is that Agile transformations, although having the positive impact of shortening the feedback loop and improving visibility, did little to make developers better. Old-time developers were still resistant to change the way they work, while newcomers and younger developers struggle to have their voices heard.
+
+For these companies, the outcome of their Agile adoption was developers mechanically following a new process, but still developing software exactly how they were before. If they were not motivated before, they were certainly not motivated after.
+
+### The cost of employing 9-to-5 developers
+
+For many passionate developers, the right thing to do with 9-to-5 developers is to fire them all.
+
+Lack of passion is not what really bothers passionate developers; what frustrates them is to be held back by other developers when they are trying to improve their applications and the way they work.
+
+Having 9-to-5 developers instead of passionate developers in a company would end up costing the company a lot of time and money, due to their poor software delivery capability.
+
+### Constrained by lack of motivation
+
+Every company has problem. However, a lot of employees do not do anything to improve things. The most common reasons include:
+
+1. they do not feel empowered to do it
+2. they do not want to be the ones pushing it
+3. they find it to be too much hassle
+4. they do not believe that things can be changed
+5. No one agrees on what the better thing is
+6. They do not care; it is *just* a job to them
+
+### Injecting passion
+
+Embedding software craftsmen in a team, either hiring them permanently or bringing on external craftsmen for a period of time, is the most effective way to motivate existing developers.
+
+Software craftsmen are on a mission to make things better, deliver value to their clients and inspire people around them. They are not afraid to lead the way and drive changes.
+
+There is nothing more annoying for a developer than having a manager dictating what she should do. Instead of just telling others what to do, software craftsmen can pair with developers, sharing their knowledge, experience and passion. Besides getting the work done, they are always keen to act like mentors to many other developers.
 
 [back to contents](#contents)
 
