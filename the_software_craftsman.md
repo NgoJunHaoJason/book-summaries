@@ -576,21 +576,29 @@ Instead, we should create a culture of learning, where people can find their own
 
 ### Creating a culture of learning
 
-TODO :persevere:
+Creating a culture of learning is one of the most efficient ways of injecting passion into a company.
 
-**Start a book club** - TODO :persevere:
+However, it should not be imposed upon the developers how, when and what they should learn, because then it becomes an obligation, which in turn leads to a lack of interest.
 
-**Have a tech lunch** - TODO :persevere:
+Instead, developers should be given the freedom to decide how, when and what they want to learn, hence embracing a culture of learning.
 
-**Have group discussions** - TODO :persevere:
+The better the developers are, the more innovative and agile the company can be. If the company becomes a place where developers are happy, many other good developers will be attracted to it.
 
-**Switch projects for an iteration** - TODO :persevere:
+There are many things developers can do to create such an environment:
 
-**Switch projects for a few hours** - TODO :persevere:
+**Start a book club** - Pick a book to start reading, and see if anyone is interested in having a discussion about it, typically once a week.
 
-**Conduct group code reviews** - TODO :persevere:
+**Have a tech lunch** - Ask your team if they would like to have lunch together while talking about technical stuff once a week. Make the meeting about learning, not about work.
 
-**Have hands-on coding sessions** - TODO :persevere:
+**Have group discussions (roundtables)** - TODO :persevere:
+
+**Switch projects for an iteration** - Let members of different teams / projects swap with each other for an iteration. Doing can bring about reduced monotony, help in the validation of decisions, facilitate knowledge sharing and lead to improvements.
+
+**Switch projects for a few hours** - A variation of the previous approach; pairing with someone on a different team can expose team members to different technologies.
+
+**Conduct group code reviews** - If done right, group code reviews can bring the whole team together; everyone feels responsible for the decisions of what constitutes quality for them.
+
+**Have hands-on coding sessions** - These are sessions where developers get together to work on an exercise, in pairs. It provides the opportunity for developers to learn from each other.
 
 **Start internal communities of practice** - TODO :persevere:
 
