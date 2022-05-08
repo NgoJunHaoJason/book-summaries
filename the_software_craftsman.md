@@ -608,23 +608,29 @@ There are many things developers can do to create such an environment:
 
 ### What if others don't want to join in?
 
-TODO :persevere:
+Persuading people to change their behaviour is no simple task. Trying to change an entire organisation with your enthusiasm and knowledge from a few books is not going to happen.
 
-**Be an example** - TODO :persevere:
+You don't need to change every person to make the organisation a better place. Attempting to do so in one goal will lead to frustration, which in turn makes us give up.
 
-**Focus on thos who care** - TODO :persevere:
+The following are advices that can help aspiring software craftsmen create a culture of learning:
 
-**Don't force** - TODO :persevere:
+**Be an example** - The most efficient way to inejct passion into a team, and help them embrace different ways of working or different technologies, is to lead by example.
 
-**Don't try to change everyone** - TODO :persevere:
+**Focus on those who care** - Not everyone will be moved by your enthusiasm to change; focus on those who are willing to change. Once a few people are having fun, more people will want to join.
 
-**Avoid concensus delays** - TODO :persevere:
+**Don't force** - Forcing developers to attend any learning initiatives will make things worse. Keep sending invitations to all developers, making sure they feel welcome to join in whenever they can. If people don't want to participate, that's okay.
 
-**Don't ask for authorisation** - TODO :persevere:
+**Don't try to change everyone** - You don't need to change everyone. Big improvements can be made just by a small number of people.
 
-**Don't complicate** - TODO :persevere:
+**Avoid concensus delays** - Sometimes it is just not possible to accomodate everyone. Just pick a day and run the session.
 
-**Establish a rhythm** - TODO :persevere:
+**Don't ask for authorisation** - You don't need authorisation from your boss to learn and practice on your own time. No sensible manager will complain when she realises the team is trying to get better. Just keep a healthy balance between learning activities and deliverables.
+
+**Don't complicate** - Aim for learning sessions that don't require much organisation or preparation; otherwise it may be hard to even get started.
+
+**Establish a rhythm** - It is much easier for people to come to the learning sessions if they always know when and where the session is going to happen.
+
+It is not difficult to bring a culture of learning into an organisation. The only thing needed is a passionate developer willing to start it. Stop finding excuses and be this developer.
 
 [back to contents](#contents)
 
